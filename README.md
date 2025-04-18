@@ -40,9 +40,8 @@ portfolio/
 │   └── style.css       # Main stylesheet
 ├── js/
 │   └── script.js       # Interactive elements
-├── assets/
+├── images/
 │   ├── images/         # All visual assets
-│   └── fonts/          # Custom typography
 └── README.md           # Documentation
 ```
 
