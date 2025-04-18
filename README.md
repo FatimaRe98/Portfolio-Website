@@ -45,3 +45,8 @@ portfolio/
 └── README.md           # Documentation
 ```
 
+### Future Improvment:
+- [ ] Add projects showcase
+- [ ] Implement dark mode
+- [ ] Add blog section
+- [ ] Multi-language support
