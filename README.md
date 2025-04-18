@@ -25,21 +25,24 @@ A responsive portfolio website showcasing my skills as a Software Engineer & ful
 ### Installation
 
 1. Clone the repository:
-
+```
 git clone https://github.com/yourusername/portfolio.git
+```
 
 ### Project Structure:
-
+```
 portfolio/
-├── index.html          [Landing page]
-├── about.html          [About me section]
-├── resume.html         [Professional resume]
-├── contact.html        [Contact form]
+├── index.html          # Landing page
+├── about.html          # About me section
+├── resume.html         # Professional resume
+├── contact.html        # Contact form
 ├── css/
-│   └── style.css       [Main stylesheet]
+│   └── style.css       # Main stylesheet
 ├── js/
-│   └── script.js       [Interactive elements]
+│   └── script.js       # Interactive elements
 ├── assets/
-│   ├── images/         [All visual assets]
-│   └── fonts/          [Custom typography]
-└── README.md           [Documentation]
+│   ├── images/         # All visual assets
+│   └── fonts/          # Custom typography
+└── README.md           # Documentation
+```
+
